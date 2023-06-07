@@ -1,0 +1,16 @@
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\bin\Debug\net5.0\RegexNoCS.exe
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\bin\Debug\net5.0\RegexNoCS.deps.json
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\bin\Debug\net5.0\RegexNoCS.runtimeconfig.json
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\bin\Debug\net5.0\RegexNoCS.runtimeconfig.dev.json
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\bin\Debug\net5.0\RegexNoCS.dll
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\bin\Debug\net5.0\ref\RegexNoCS.dll
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\bin\Debug\net5.0\RegexNoCS.pdb
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\obj\Debug\net5.0\RegexNoCS.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\obj\Debug\net5.0\RegexNoCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\obj\Debug\net5.0\RegexNoCS.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\obj\Debug\net5.0\RegexNoCS.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\obj\Debug\net5.0\RegexNoCS.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\obj\Debug\net5.0\RegexNoCS.dll
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\obj\Debug\net5.0\ref\RegexNoCS.dll
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\obj\Debug\net5.0\RegexNoCS.pdb
+C:\Users\alex\Documents\Dev\Desenvolve 2023\explorandoRegex\RegexNoCS\obj\Debug\net5.0\RegexNoCS.genruntimeconfig.cache
